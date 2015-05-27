@@ -14,8 +14,6 @@
     <script>scripts\Edgard_Informationen.gml</script>
     <script>scripts\Maxim_Informationen.gml</script>
   </scripts>
-  <objects name="objects"/>
-  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
