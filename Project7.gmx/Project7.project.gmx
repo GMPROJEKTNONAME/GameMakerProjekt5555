@@ -7,7 +7,6 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\edgard01</sprite>
-    <sprite>sprites\spr_HUDFORM</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -15,11 +14,9 @@
     <script>scripts\Edgard_Informationen.gml</script>
     <script>scripts\Maxim_Informationen.gml</script>
   </scripts>
-  <objects name="objects">
-    <object>objects\object0</object>
-  </objects>
+  <objects name="objects"/>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
